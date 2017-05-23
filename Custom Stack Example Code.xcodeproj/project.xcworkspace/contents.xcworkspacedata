@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:BLARG.xcodeproj">
+      location = "self:/Users/ax/COMP235 Projects/BLARG/Custom Stack Example Code.xcodeproj">
    </FileRef>
 </Workspace>

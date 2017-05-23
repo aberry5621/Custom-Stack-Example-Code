@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		E20DEB061ED14E620062A266 /* BLARG */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BLARG; sourceTree = BUILT_PRODUCTS_DIR; };
+		E20DEB061ED14E620062A266 /* Custom Stack Example Code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Custom Stack Example Code"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E20DEB091ED14E620062A266 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		E20DEB071ED14E620062A266 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E20DEB061ED14E620062A266 /* BLARG */,
+				E20DEB061ED14E620062A266 /* Custom Stack Example Code */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E20DEB051ED14E620062A266 /* BLARG */ = {
+		E20DEB051ED14E620062A266 /* Custom Stack Example Code */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E20DEB0D1ED14E620062A266 /* Build configuration list for PBXNativeTarget "BLARG" */;
+			buildConfigurationList = E20DEB0D1ED14E620062A266 /* Build configuration list for PBXNativeTarget "Custom Stack Example Code" */;
 			buildPhases = (
 				E20DEB021ED14E620062A266 /* Sources */,
 				E20DEB031ED14E620062A266 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = BLARG;
+			name = "Custom Stack Example Code";
 			productName = BLARG;
-			productReference = E20DEB061ED14E620062A266 /* BLARG */;
+			productReference = E20DEB061ED14E620062A266 /* Custom Stack Example Code */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E20DEB011ED14E620062A266 /* Build configuration list for PBXProject "BLARG" */;
+			buildConfigurationList = E20DEB011ED14E620062A266 /* Build configuration list for PBXProject "Custom Stack Example Code" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E20DEB051ED14E620062A266 /* BLARG */,
+				E20DEB051ED14E620062A266 /* Custom Stack Example Code */,
 			);
 		};
 /* End PBXProject section */
@@ -232,7 +232,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E20DEB011ED14E620062A266 /* Build configuration list for PBXProject "BLARG" */ = {
+		E20DEB011ED14E620062A266 /* Build configuration list for PBXProject "Custom Stack Example Code" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E20DEB0B1ED14E620062A266 /* Debug */,
@@ -241,13 +241,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E20DEB0D1ED14E620062A266 /* Build configuration list for PBXNativeTarget "BLARG" */ = {
+		E20DEB0D1ED14E620062A266 /* Build configuration list for PBXNativeTarget "Custom Stack Example Code" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E20DEB0E1ED14E620062A266 /* Debug */,
 				E20DEB0F1ED14E620062A266 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
